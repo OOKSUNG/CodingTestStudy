@@ -6,6 +6,9 @@ on:
       - '[0-9][0-9][0-9][0-9]-*/**'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   organize:
     if: github.actor != 'github-actions[bot]'
