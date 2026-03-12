@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0001-two-sum) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
