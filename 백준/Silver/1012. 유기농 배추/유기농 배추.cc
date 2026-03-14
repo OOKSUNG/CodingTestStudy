@@ -3,6 +3,9 @@
 
 using namespace std;
 
+int dx[4] = {1, -1, 0, 0};
+int dy[4] = {0, 0, 1, -1};
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
@@ -32,33 +35,23 @@ int main() {
                         int f = st.top().first;
                         int s = st.top().second;
                         st.pop();
-                        if(f > 0 && map[f - 1][s] == 1){
-                            map[f - 1][s] = -1;
-                            st.push({f - 1, s});
+                        
+                        for(int d = 0; d < 4; d++){
+                            int nf = f + dy[d];
+                            int ns = s +dx[d];
+                            if(nf < 0 || ns < 0 || nf >= N || ns >= M ) continue;
+                            if(map[nf][ns] == 1){
+                                map[nf][ns] = -1;
+                                st.push({nf, ns});
+                            }
                         }
-                        if(s > 0 && map[f][s - 1] == 1){
-                            map[f][s - 1] = -1;
-                            st.push({f, s - 1});
-                        }
-                        if(f < N - 1 && map[f + 1][s] == 1){
-                            map[f + 1][s] = -1;
-                            st.push({f + 1, s});
-                        }
-                        if(s < M - 1 && map[f][s + 1] == 1){
-                            map[f][s + 1] = -1;
-                            st.push({f, s + 1});
-                        }
+                        
                     }
-                    
                     ans++;
-                    
                 }
             }
         }
-        
         cout << ans << '\n';
     }
-    
-    
     return 0;
 }
