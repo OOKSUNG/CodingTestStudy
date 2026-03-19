@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -21,6 +22,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0125-valid-palindrome) |
 ## Two Pointers
@@ -68,4 +70,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
