@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <queue>
+#include <stack>
 #include <utility>
 
 using namespace std;
@@ -9,16 +9,16 @@ int ans[100][100];
 vector<vector<int>> v;
 
 void bfs(){
-    queue<int> q;
+    stack<int> st;
     for(int i = 0; i < N; i++){
-        q.push(i);
-        while(!q.empty()){
-            int cur = q.front();
-            q.pop();
+        st.push(i);
+        while(!st.empty()){
+            int cur = st.top();
+            st.pop();
             
             for(int j = 0; j < (int)v[cur].size(); j++){
                 if(ans[i][v[cur][j]] != 1) {
-                    q.push(v[cur][j]);
+                    st.push(v[cur][j]);
                     ans[i][v[cur][j]] = 1;
                 }
             }
