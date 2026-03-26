@@ -48,6 +48,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
 ## Sorting
@@ -74,4 +75,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
