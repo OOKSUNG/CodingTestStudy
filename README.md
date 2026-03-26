@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/OOKSUNG/CodingTestStudy/tree/master/1260-shift-2d-grid) |
@@ -36,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
@@ -51,6 +53,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0023-merge-k-sorted-lists](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +90,17 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
