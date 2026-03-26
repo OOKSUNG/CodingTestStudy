@@ -1,18 +1,26 @@
 #include <iostream>
+#include <algorithm>
 
 using namespace std;
-int main() 
-{
+int dp[5000];
+
+int main() {
+    fill(dp, dp + 5000, -1);
+    
     int N;
     cin >> N;
-    int sum = 5000;
-    for (int i = 0; i <= 1000; i++) {
-        for (int j = 0; j <= 1700; j++) {
-            if ((5 * i) + (3 * j) == N) {
-                if (sum > (i + j)) sum = i + j;
-            }
+    dp[3] = dp[5] = 1;
+    
+    for(int i = 6; i <= N; i++){
+        if(dp[i - 3] != -1){
+            dp[i] = dp[i - 3] + 1;
+        }
+        if(dp[i - 5] != -1){
+            if(dp[i] == -1) dp[i] = dp[i - 5] + 1;
+            else dp[i] = min(dp[i], dp[i - 5] + 1);
         }
     }
-    if (sum == 5000) cout << -1;
-    else cout << sum;
+    
+    cout << dp[N];
+    return 0;
 }
