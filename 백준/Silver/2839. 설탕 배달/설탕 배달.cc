@@ -2,25 +2,23 @@
 #include <algorithm>
 
 using namespace std;
-int dp[5000];
+
+int dp[5001];
 
 int main() {
-    fill(dp, dp + 5000, -1);
+    fill(dp, dp + 5001, 1e9);
     
     int N;
     cin >> N;
-    dp[3] = dp[5] = 1;
+    dp[0] = 0;
     
-    for(int i = 6; i <= N; i++){
-        if(dp[i - 3] != -1){
-            dp[i] = dp[i - 3] + 1;
-        }
-        if(dp[i - 5] != -1){
-            if(dp[i] == -1) dp[i] = dp[i - 5] + 1;
-            else dp[i] = min(dp[i], dp[i - 5] + 1);
-        }
+    for(int i = 1; i <= N; i++){
+        if (i >= 3)
+            dp[i] = min(dp[i], dp[i - 3] + 1);
+        if (i >= 5)
+            dp[i] = min(dp[i], dp[i - 5] + 1);
     }
-    
-    cout << dp[N];
+    if(dp[N] == 1e9) cout << -1;
+    else cout << dp[N];
     return 0;
 }
