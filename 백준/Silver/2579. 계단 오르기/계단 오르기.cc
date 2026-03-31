@@ -1,26 +1,25 @@
 #include <iostream>
 #include <algorithm>
 
-int A[301];
-int dp[301];
 using namespace std;
-int main()
-{
-    bool isSe = false;
-    int T;
-    cin >> T;
 
-    for (int i = 0; i < T; i++) {
-        cin >> A[i];
+int sco[301];
+int dp[301];
+
+int main() {
+    int N;
+    cin >> N;
+    for(int i = 1; i <= N; i++){
+        cin >> sco[i];
     }
-
-    dp[0] = A[0];
-    dp[1] = A[0] + A[1];
-    dp[2] = max(A[1] + A[2], A[0] + A[2]);
-
-    for (int i = 3; i < T; i++) {
-        dp[i] = max(dp[i - 2] + A[i], dp[i - 3] + A[i - 1] + A[i]);
+    
+    dp[1] = sco[1];
+    dp[2] = sco[2] + sco[1];
+    
+    for(int i = 3; i <= N; i++){
+        dp[i] = max(dp[i - 2] + sco[i], dp[i - 3] + sco[i - 1] + sco[i]);
     }
-    if (T == 0) cout << 0;
-    else cout << dp[T - 1];
+    
+    cout << dp[N];
+    return 0;
 }
