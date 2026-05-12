@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
@@ -116,4 +117,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
