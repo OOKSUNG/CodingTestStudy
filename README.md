@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
@@ -34,6 +35,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0055-jump-game) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
