@@ -31,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0014-longest-common-prefix](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/OOKSUNG/CodingTestStudy/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
@@ -128,4 +130,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/OOKSUNG/CodingTestStudy/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
