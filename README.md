@@ -17,6 +17,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/OOKSUNG/CodingTestStudy/tree/master/1260-shift-2d-grid) |
+| [1480-running-sum-of-1d-array](https://github.com/OOKSUNG/CodingTestStudy/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +122,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0046-permutations](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0046-permutations) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/OOKSUNG/CodingTestStudy/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
