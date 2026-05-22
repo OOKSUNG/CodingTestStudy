@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0046-permutations](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0493-reverse-pairs) |
 | [0561-array-partition](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0561-array-partition) |
@@ -134,4 +135,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/OOKSUNG/CodingTestStudy/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
